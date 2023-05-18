@@ -1,7 +1,4 @@
-PyTorch Beginner Tutorials from my YouTube channel.
-
-## Watch the Playlist
-  [![Alt text](https://img.youtube.com/vi/EMXfZB8FVUA/hqdefault.jpg)](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+Updated PyTorch Notes - Base notes from [Patrick Loeber](https://github.com/patrickloeber)
   
   1. Installation
   2. Tensor Basics
